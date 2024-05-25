@@ -60,17 +60,17 @@
       },
      "OWNER_USERNAME": {
         "description": "Add owner username without @",
-        "value": "New_AMBOT",
+        "value": "alone_boy_1_k",
         "required": true
       },
      "SUPPORT_CHANNEL": {
         "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
+        "value": "https://t.me/crunchyrollanimeinhindidubb",
         "required": true
       },
         "SUPPORT_CHAT": {
         "description": "Add Chat group & support group Link",
-        "value": "https://t.me/AM_YTSUPPORT",
+        "value": "https://t.me/Team_Shadow_Group",
         "required": true
       },
       "STRING_SESSION": {
