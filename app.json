@@ -103,9 +103,9 @@
         "value": "True",
         "required": false
       },
-      "START_IMG_URL": {
-        "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "START_VIDEO_URL": {
+        "description": "Your Bot Start Time video tgm link from @Sophia_x_MusicBot on Telegram.",
+        "value": "https://telegra.ph/file/3ee71332a6c16d36c7eb6.mp4",
         "required": false
       },
       "PING_IMG_URL": {
